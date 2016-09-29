@@ -7,9 +7,9 @@ This repository tries to implement Aspect-Based-Sentiment-Analysis on SemEval 20
 To be updated soon.
 
 # Results
-+---------------+---------------+-------------+
-|	   Model	|	Precision	|	 Recall	  |
-+---------------+---------------+-------------+
-|CNN + WE       | 	 0.507317 	|	0.382353  |
-|CNN + WE + POS | 	 0.534562 	|	0.426471  |
-+---------------+---------------+-------------+
+
+CNN + WE :
+Precision - 0.507317, Recall - 0.382353
+CNN + WE + POS :
+Precision - 0.534562, Recall - 0.426471 
+
