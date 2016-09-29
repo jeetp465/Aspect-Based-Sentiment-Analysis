@@ -8,8 +8,9 @@ To be updated soon.
 
 # Results
 
-CNN + WE :
+CNN + GloVe WE :
 Precision - 0.507317, Recall - 0.382353
-CNN + WE + POS :
+CNN + GloVe WE + POS :
 Precision - 0.534562, Recall - 0.426471 
-
+CNN + Google WE + POS :
+Precision - 0.467532, Recall - 0.661765
