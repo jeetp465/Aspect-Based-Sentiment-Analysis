@@ -7,10 +7,14 @@ This repository tries to implement Aspect-Based-Sentiment-Analysis on SemEval 20
 To be updated soon.
 
 # Results
+#### CNN + GloVe WE + POS:
 
-CNN + GloVe WE :
-Precision - 0.507317, Recall - 0.382353
-CNN + GloVe WE + POS :
-Precision - 0.534562, Recall - 0.426471 
-CNN + Google WE + POS :
+Precision: 51.64% Recall: 46.32% F1_score: 48.84% 
+
+#### CNN + GloVe WE :
+
+Precision: 47.95% Recall: 43.01% F1_Score: 45.34% 
+
+#### CNN + Google WE + POS :
+
 Precision - 0.467532, Recall - 0.661765
